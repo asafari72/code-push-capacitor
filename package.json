@@ -1,0 +1,24 @@
+{
+  "name": "capacitor-code-push",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^4.6.2",
+    "@capacitor/core": "^4.6.2",
+    "@capacitor/ios": "^4.6.2"
+  },
+  "devDependencies": {
+    "@capacitor-community/http": "^2.0.0-0",
+    "@capacitor/cli": "^4.6.2",
+    "@capacitor/device": "^4.1.0",
+    "@capacitor/dialog": "^4.1.0",
+    "@capacitor/filesystem": "^4.1.4",
+    "capacitor-codepush": "github:mapiacompany/capacitor-codepush"
+  }
+}
